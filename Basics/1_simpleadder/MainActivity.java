@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
     public void btn(View view) {
         String inp1 = edt01.getText().toString();
         String inp2 = edt01.getText().toString();
-
-
         int inp11 = Integer.parseInt(inp1);
         int inp22 = Integer.parseInt(inp2);
 
