@@ -20,8 +20,6 @@
         android:id="@+id/ed1"
         android:textSize="20dp"
         android:textAlignment="center"
-
-
         />
     <EditText
         android:layout_width="wrap_content"
