@@ -15,8 +15,6 @@
        android:id="@+id/textView"
        android:layout_alignParentTop="true"
        android:layout_centerHorizontal="true" />
-   
-
    <LinearLayout
        android:layout_width="match_parent"
        android:layout_height="match_parent"
