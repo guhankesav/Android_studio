@@ -9,6 +9,7 @@
    <!-- https://developer.android.com/reference/android/widget/HorizontalScrollView -->
    <TextView
        android:layout_width="wrap_content"
+             
        android:layout_height="wrap_content"
        android:textAppearance="?android:attr/textAppearanceSmall"
        android:text="Horizontal ScrollView Example"
