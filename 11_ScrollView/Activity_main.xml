@@ -53,7 +53,6 @@
                    android:text="New Button5"
                    android:id="@+id/button5" />
               
-               
               <Button
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
