@@ -1,5 +1,4 @@
 package com.example.basic_button;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
