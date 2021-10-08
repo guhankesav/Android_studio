@@ -7,9 +7,6 @@
    tools:context=".MainActivity">
    
    
-   
-   
-   
 
    <!-- https://developer.android.com/reference/android/widget/HorizontalScrollView -->
    <TextView
